@@ -5,11 +5,11 @@
 # Site settings
 title: The FINAL!!! 
 email: 005186086@coyote.csusb.edu
-description: > # ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   This is possibly the final to my class who knows. I know that I don't know. 
   Do you know? Does anyone know? Know Idea!!!
 baseurl: "" # the subpath 
-url: "https://005186086.github.io" # the base hostname & site
+url: "http://yourdomain.com" # the base hostname & site
 twitter_username: 005186086
 github_username:  005186086
 
