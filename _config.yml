@@ -8,7 +8,7 @@ email: 005186086@coyote.csusb.edu
 description: > # ignore newlines until "baseurl:"
   This is possibly the final to my class who knows. I know that I don't know. 
   Do you know? Does anyone know? Know Idea!!!
-baseurl: "https://github.com" # the subpath 
+baseurl: "" # the subpath 
 url: "https://005186086.github.io" # the base hostname & site
 twitter_username: 005186086
 github_username:  005186086
