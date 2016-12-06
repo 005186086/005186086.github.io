@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the Page!"
 date:   2016-11-25 20:24:15 -0500
-categories: jekyll update
+categories: site update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Well this is the start and finish of a site that works with a Title page, about page, and a this page? Hummm... I hope you enjoy your time here till you click on something in here, if you feel like it.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Check out here if you are bored [facebook][facebook] or if you just like checking it.
 
-Jekyll also offers powerful support for code snippets:
+Or if you want to find out more information on any coding needs go here [dream-in-code][dream-in-code]. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If you are into this place... eh... go here ................. [twitter][twitter].
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[facebook]: http://facebook.com
+[dream-in-code]:   http://www.dreamincode.net
+[twitter]: https://twitter.com/?lang=en
